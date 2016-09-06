@@ -1,0 +1,19 @@
+{
+  "name": "bryce_repo2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnbr2002/bryce_repo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnbr2002/bryce_repo/issues"
+  },
+  "homepage": "https://github.com/dnbr2002/bryce_repo#readme",
+  "description": ""
+}
